@@ -29,7 +29,7 @@ Dengan dibuatnya aplikasi ini besar harapan saya agar dapat memudahkan pengguna 
 |      |
 |       --------- Kebijakan
 |      |
-|       ------------ Umpan Balil
+|       ------------ Umpan Balik
 |
 |
  ------ Navigasi Bottom
