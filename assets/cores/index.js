@@ -1,0 +1,2 @@
+/* Powered By CusMeDroid */
+var firebaseConfig = {apiKey: "AIzaSyDjrwoPoOkOeKb2V_uMpkFSuklsIXxPCrg",authDomain: "me-lia.firebaseapp.com",databaseURL: "https://me-lia-default-rtdb.asia-southeast1.firebasedatabase.app",projectId: "me-lia",storageBucket: "me-lia.appspot.com",messagingSenderId: "1005391328115",appId: "1:1005391328115:web:8208af83c53435bdd6cb06",measurementId: "G-XCW8LDJSGT"};firebase.initializeApp(firebaseConfig);
